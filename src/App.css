@@ -1,0 +1,13 @@
+.movie-add {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0 0;
+}
+
+.movie-list {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
+grid-gap: 1rem;
+justify-items: center;
+margin: 2rem;
+}

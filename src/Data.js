@@ -1,0 +1,51 @@
+export const movieData = [
+    {
+        id: Math.random(),
+        title: "Yargi",
+        description: "A lawyer and a prosecutor, whose paths cross with a murder case, will have to work together to find the murderer, and this will create an irreversible .",
+        posterURL: "https://m.media-amazon.com/images/M/MV5BYTE0ZTk3YmItOGM0MS00MWRmLTkzOTYtZTM5N2VkMWE4ZGM2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
+        videoURL: "TcMBFSGVi1c",
+        rating: 5,
+    },
+    {
+        id: Math.random(),
+        title: "Sadakatsiz",
+        description: "Asya is a successful doctor who has the perfect life with her husband and son. But after she finds a blonde hair on her husband's scarf, she discovers his extramarital affair and everything changes.",
+        posterURL: "https://www.seriesturques.com/wp-content/uploads/2020/09/sadakatsiz-485x350.jpg",
+        videoURL: "rBxcF-r9Ibs",
+        rating: 2,
+    },
+    {
+        id: Math.random(),
+        title: "Stiletto",
+        description: "When a corpse falls from the top floor at a party, Officer Rami interviews witnesses to unmask the murderer but uncovers a disturbing past.",
+        posterURL: "https://i.ytimg.com/vi/E9BWBsU2nGg/mqdefault.jpg",
+        videoURL: "5iaYLCiq5RM",
+        rating: 4,
+    },
+    {
+        id: Math.random(),
+        title: "The Gift",
+        description: "The Gift is a made for Netflix Turkish fantasy drama about an artist named Atiye, who discovers that she has a much bigger connection to the world at large.",
+        posterURL: "https://fr.web.img6.acsta.net/pictures/20/06/11/04/31/3474242.jpg",
+        videoURL: "k397HRbTtWI",
+        rating: 3,
+    },
+    {
+        id: Math.random(),
+        title: "Dahmer",
+        description: "Serial killer Jeffrey Dahmer confesses his horrific crimes in never-before-seen interviews, providing a disturbing perspective on a broken mind.",
+        posterURL: "https://fr.web.img4.acsta.net/pictures/22/09/17/18/16/3249476.jpg",
+        videoURL: "GV5y4yTDtBI",
+        rating: 2,
+    },
+    {
+        id: Math.random(),
+        title: "Lost",
+        description: "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
+        posterURL: "https://www.ecranlarge.com/media/cache/1600x1200/uploads/image/000/966/lost-les-disparus-affiche-966147.jpg",
+        videoURL: "lc0UehYemQA",
+        rating: 4,
+    },
+    
+];
